@@ -1,5 +1,11 @@
 # openwiki
 
+## 0.6.2
+
+### Patch Changes
+
+- [#972](https://github.com/langchain-ai/openwiki/pull/972) [`1d09d95`](https://github.com/langchain-ai/openwiki/commit/1d09d9526254dea6be83cbae090dc8db9f70ea30) Thanks [@eugeneliu-86](https://github.com/eugeneliu-86)! - feat: group a repository run's planner and page workers into one LangSmith thread, named "planning agent" and "worker agent: <page>"
+
 ## 0.6.1
 
 ### Patch Changes
